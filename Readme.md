@@ -37,7 +37,7 @@ The dataset contains match-level information from IPL 2022 with the following ke
 ### Player Performance
 1. Most "Player of the Match" Awards
 2. Top Scorers in the tournament
-3. Best Bowling Figures
+3. 10 Best Bowling Figures
 
 ### Venue Analysis
 - Most Matches Played by Venue
