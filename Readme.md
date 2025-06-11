@@ -1,7 +1,5 @@
 # IPL 2022 Capstone Project
 
-![IPL Logo](https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Indian_Premier_League_Official_Logo.svg/1200px-Indian_Premier_League_Official_Logo.svg.png)
-
 ## Project Overview
 The Indian Premier League (IPL) is a professional T20 cricket league in India, featuring franchises representing cities. This project explores IPL 2022 match-level data to derive meaningful insights and understand match outcomes, player performances, and team dynamics.
 
@@ -60,4 +58,3 @@ The dataset contains match-level information from IPL 2022 with the following ke
 - NumPy
 - Matplotlib
 - Seaborn
-
